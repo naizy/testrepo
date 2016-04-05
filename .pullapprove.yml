@@ -5,6 +5,6 @@ reset_on_push: false
 reviewers:
   members:
   - naizy
-  - nutank
+  - jeromie
   name: default
   required: 2
